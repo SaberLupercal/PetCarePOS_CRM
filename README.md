@@ -30,5 +30,5 @@ To run the backend API locally for development or testing:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SaberLupercal/PetCarePOS_CRM.git](https://github.com/SaberLupercal/PetCarePOS_CRM.git)
+   git clone [https://github.com/SaberLupercal/PetCarePOS_CRM](https://github.com/SaberLupercal/PetCarePOS_CRM)
    cd PetCarePOS_CRM
