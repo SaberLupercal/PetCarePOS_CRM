@@ -21,7 +21,7 @@ The application is structured around a robust client-server and cloud-native arc
 ---
 
 ## 🚀 3. Live Demo & Access
-* **Live Application:** [Access the Web App via Vercel](https://your-vercel-deployment-link.vercel.app) *(Update with your actual Vercel link)*
+* **Live Application:** [Access the Web App via Vercel](https://pet-care-pos-crm.vercel.app/) *(Update with your actual Vercel link)*
 
 ---
 
