@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL") or "postgresql://postgres:Candy_thoi05@crm-petcarespa.ctueigiw2vwf.ap-southeast-2.rds.amazonaws.com:5432/crm_petcarespa"
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 app = FastAPI(title="Pet Care Spa POS & CRM API")
 
